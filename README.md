@@ -2,7 +2,8 @@
 
 Frontend of an Andorid application I developed for the StartHack 2021 Hackathon. Also, the app makes GET requests to a server that porvides a JSON with data to be parsed and displayed.
 
-VIDEO DEMO
+\
+VIDEO DEMO BELOW
 
 [![VIDEO DEMO](https://img.youtube.com/vi/TYBb0LHZoEI/0.jpg)](https://www.youtube.com/watch?v=TYBb0LHZoEI)
 
